@@ -1,4 +1,3 @@
-import React from 'react';
 import { ChevronDown, User } from 'lucide-react';
 
 const Header = () => {

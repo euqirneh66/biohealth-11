@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Printer, CheckCircle2, Clock } from 'lucide-react';
+import { Printer, Clock } from 'lucide-react';
 import { cn } from '../lib/utils';
 
 const patients = [

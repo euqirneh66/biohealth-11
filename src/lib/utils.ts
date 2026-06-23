@@ -28,7 +28,7 @@ export const fadeIn = (direction: 'up' | 'down' | 'left' | 'right' = 'up', delay
     transition: {
       duration: 0.5,
       delay,
-      ease: "easeOut"
+      ease: "easeOut" as const
     }
   }
 });

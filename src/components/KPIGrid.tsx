@@ -1,4 +1,3 @@
-import React from 'react';
 import { Brain, MessageSquare, Zap, Clock, CheckCircle2 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { cn, fadeIn } from '../lib/utils';

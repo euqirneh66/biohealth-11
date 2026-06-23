@@ -1,9 +1,7 @@
-import React from 'react';
 import Header from './components/Header';
 import KPIGrid from './components/KPIGrid';
 import PatientTable from './components/PatientTable';
 import DemandChart from './components/DemandChart';
-import { motion } from 'framer-motion';
 
 function App() {
   return (
